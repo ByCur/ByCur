@@ -2,9 +2,7 @@
 
 I'm a **Computer Engineering student at the University of Málaga (UMA)**, specializing in **Computing**, with expected graduation in **June 2027**.
 
-I'm especially interested in **Software Engineering and Artificial Intelligence**, with a focus on building complete applications that combine backend development, cloud infrastructure and modern AI systems.
-
-I'm also exploring **Blockchain technologies** as part of my Bachelor's Thesis.
+I'm focused on **Software Engineering and Artificial Intelligence**, especially building complete applications that combine backend development, cloud infrastructure and modern AI systems.
 
 ---
 
@@ -23,9 +21,11 @@ I'm also exploring **Blockchain technologies** as part of my Bachelor's Thesis.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### 🤖 AI Knowledge & Workflow Assistant
+
+[![CI](https://github.com/ByCur/ai-knowledge-workflow-assistant/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ByCur/ai-knowledge-workflow-assistant/actions/workflows/ci.yml)
 
 **React · TypeScript · FastAPI · Python · PostgreSQL · pgvector · Gemini · Ollama · Docker**
 
@@ -54,6 +54,8 @@ Users can upload PDF/TXT documents, query their knowledge base and use an AI age
 
 ### 📚 Student Study Planner
 
+[![CI](https://github.com/ByCur/student-study-planner-sk1/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ByCur/student-study-planner-sk1/actions/workflows/ci.yml)
+
 **React · Node.js · Express · PostgreSQL · Docker**
 
 Full-stack study management application for assignments, exams, projects and deadlines.
@@ -72,7 +74,7 @@ Full-stack study management application for assignments, exams, projects and dea
 
 ---
 
-### ⛓️ Blockchain Bachelor's Thesis
+## ⛓️ Bachelor's Thesis — Current Research
 
 My Bachelor's Thesis for the **2026–2027 academic year** will explore Blockchain technologies with the goal of developing a practical software solution.
 
@@ -113,8 +115,6 @@ Current areas of research include:
 
 ## 🧠 Current Focus
 
-I'm currently strengthening my skills in:
-
 - Software engineering and backend architecture
 - AI-powered applications
 - Retrieval-Augmented Generation
@@ -135,11 +135,4 @@ I completed an Erasmus academic year at the **Technical University of Košice (T
 
 I'm preparing for **Graduate and Junior Software Engineering opportunities starting in 2027**, particularly in international environments.
 
-My main areas of interest are:
-
-- Software Engineering
-- Artificial Intelligence
-- Backend Engineering
-- AI-powered application development
-
-I'm also developing experience in Blockchain through my Bachelor's Thesis.
+My main areas of interest are **Software Engineering, Artificial Intelligence, Backend Engineering and AI-powered application development**.
